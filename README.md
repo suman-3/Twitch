@@ -1,15 +1,9 @@
 # Fullstack Twitch Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
 
-![Twitch Clone Thumbnail (3)](https://github.com/AntonioErdeljac/next14-twitch-clone/assets/23248726/6e0153f1-ab30-4924-9f06-13d2f46ff3b5)
-
-
-
-This is a repository for Fullstack Trello Clone: Next.js 14, Livestreaming, React, Prisma, Stripe, Tailwind, MySQL
-
-[VIDEO TUTORIAL](https://www.youtube.com/watch?v=a02JAryRPVU)
 
 Key Features:
-- 📡 Streaming using RTMP / WHIP protocols 
+
+- 📡 Streaming using RTMP / WHIP protocols
 - 🌐 Generating ingress
 - 🔗 Connecting Next.js app to OBS / Your favorite streaming software 
 - 🔐 Authentication 
@@ -43,11 +37,6 @@ Key Features:
 
 **Node version 18.17 or later**
 
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next14-twitch-clone.git
-```
 
 ### Install packages
 
